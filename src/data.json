@@ -1,0 +1,167 @@
+[
+  {
+    "title": "dishwasher",
+    "category": "Dual Arm",
+    "filePath": "/videos/office_robots/dual_arm/dishwasher",
+    "videos": ["file-wrist1.mp4", "file-wrist2.mp4"]
+  },
+  {
+    "title": "fashion",
+    "category": "Dual Arm",
+    "filePath": "/videos/office_robots/dual_arm/fashion",
+    "videos": [
+      "episode_000000_static1.mp4",
+      "episode_000000_wrist1.mp4",
+      "episode_000000_wrist2.mp4"
+    ]
+  },
+  {
+    "title": "place_items",
+    "category": "Dual Arm",
+    "filePath": "/videos/office_robots/dual_arm/place_items",
+    "videos": [
+      "episode_000000_static1.mp4",
+      "episode_000000_wrist1.mp4",
+      "episode_000000_wrist2.mp4"
+    ]
+  },
+  {
+    "title": "place_trash",
+    "category": "Dual Arm",
+    "filePath": "/videos/office_robots/dual_arm/place_trash",
+    "videos": [
+      "episode_000000_static1.mp4",
+      "episode_000000_wrist1.mp4",
+      "episode_000000_wrist2.mp4"
+    ]
+  },
+  {
+    "title": "flip_boxes",
+    "category": "Humanoid",
+    "filePath": "/videos/office_robots/humanoid/flip_boxes",
+    "videos": ["file-right1.mp4", "file-right2.mp4"]
+  },
+  {
+    "title": "hand_out_can",
+    "category": "Humanoid",
+    "filePath": "/videos/office_robots/humanoid/hand_out_can",
+    "videos": ["file-000.mp4"]
+  },
+  {
+    "title": "hand_out_tshirt",
+    "category": "Humanoid",
+    "filePath": "/videos/office_robots/humanoid/hand_out_tshirt",
+    "videos": ["file-000.mp4"]
+  },
+  {
+    "title": "picknplace",
+    "category": "Humanoid",
+    "filePath": "/videos/office_robots/humanoid/picknplace",
+    "videos": ["file-000.mp4"]
+  },
+  {
+    "title": "single_3bbb",
+    "category": "Single Arm",
+    "filePath": "/videos/office_robots/single_arm/single_3bbb",
+    "videos": [
+      "episode_000000_static1.mp4",
+      "episode_000000_wrist1.mp4",
+      "episode_000000_wrist2.mp4"
+    ]
+  },
+  {
+    "title": "single_bmw",
+    "category": "Single Arm",
+    "filePath": "/videos/office_robots/single_arm/single_bmw",
+    "videos": ["file_wrist1.mp4", "file-000.mp4"]
+  },
+  {
+    "title": "single_cuttlery",
+    "category": "Single Arm",
+    "filePath": "/videos/office_robots/single_arm/single_cuttlery",
+    "videos": ["file-000.mp4", "file-wrist1.mp4"]
+  },
+  {
+    "title": "single_sortbox",
+    "category": "Single Arm",
+    "filePath": "/videos/office_robots/single_arm/single_sortbox",
+    "videos": ["file_wrist1.mp4", "file-000.mp4"]
+  },
+  {
+    "title": "trossen_foldtowel",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_foldtowel",
+    "videos": [
+      "file-static1.mp4",
+      "file-static2.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  },
+  {
+    "title": "trossen_handovercube",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_handovercube",
+    "videos": [
+      "file-static1.mp4",
+      "file-static2.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  },
+  {
+    "title": "trossen_kaufland",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_kaufland",
+    "videos": [
+      "file-static1.mp4",
+      "file-static2.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  },
+  {
+    "title": "trossen_sortingfigures",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_sortingfigures",
+    "videos": [
+      "file-000.mp4",
+      "file-static1.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  },
+  {
+    "title": "trossen_sortingscrews",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_sortingscrews",
+    "videos": [
+      "file-static1.mp4",
+      "file-static2.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  },
+  {
+    "title": "trossen_towelflatten",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_towelflatten",
+    "videos": [
+      "file-static1.mp4",
+      "file-static2.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  },
+  {
+    "title": "trossen_transferitems",
+    "category": "Trossen",
+    "filePath": "/videos/office_robots/trossen/trossen_transferitems",
+    "videos": [
+      "file-static1.mp4",
+      "file-static2.mp4",
+      "file-wrist1.mp4",
+      "file-wrist2.mp4"
+    ]
+  }
+]
